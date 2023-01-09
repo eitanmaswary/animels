@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+  color: antiquewhite;
+}
+.dog{
+    width:  100px;
+    height: 100px;
+    margin: auto;
+    
+    text-align: center;
+}
+.namer-bg{
+    background-image: url("https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_533,w_758/513651");
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.pil-bg {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Elephants_at_Etosha_National_Park03.JPG/1200px-Elephants_at_Etosha_National_Park03.JPG");
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.arie-bg{
+background-image: url("https://www.safari.co.il/Images/_croppedImage201961710_5625695.png");
+background-position: center center;
+background-size: contain;
+background-repeat:no-repeat;
+}
+.giraf-bg{
+    background-image: url("https://scontent.ftlv5-1.fna.fbcdn.net/v/t1.18169-9/1622772_213213355555975_8705697444510171022_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9267fe&_nc_ohc=Wfr-AibrlZwAX9QtuFe&_nc_ht=scontent.ftlv5-1.fna&oh=00_AfDrZDHih9VtwSHDJJvgwO5WsqaoUWmRSb0GhOP3grpSaA&oe=63DBA875");
+    background-position: center center;
+    background-size: contain;
+    background-repeat:no-repeat;
+}
+
+.savoa-bg{
+    background-image: url("https://www.makorrishon.co.il/wp-content/uploads/2019/10/UZI-DGANI-%D7%A6%D7%91%D7%95%D7%A2-%D7%9E%D7%A4%D7%95%D7%A1%D7%A4%D7%A1-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-13.jpg");
+    background-position: center center;
+    background-size: contain;
+    background-repeat:no-repeat;
+}
+
+.karnaf-bg{
+    background-image: url("https://www.pc.co.il/wp-content/uploads/2017/04/Ceratotherium-simum600.jpg");
+    background-position: center center;
+    background-size: contain;
+    background-repeat:no-repeat;
+}
+
+.letaa-bg{
+    background-image: url("https://rafaelyifrach.com/wp-content/uploads/%D7%9C%D7%98%D7%90%D7%94-%D7%91%D7%A1%D7%99%D7%9C%D7%99%D7%A1%D7%A7-%D7%91%D7%9F-%D7%A9%D7%A0%D7%94.jpg");
+    background-position: center center;
+    background-size: contain;
+    background-repeat:no-repeat;
+}
+
+.nahash-bg{
+    background-image: url("https://ynet-images1.yit.co.il/picserver5/crop_images/2022/05/14/Hyl0athhUq/Hyl0athhUq_0_0_1920_1280_0_x-large.jpg");
+    background-position: center center;
+    background-size: contain;
+    background-repeat:no-repeat;
+}
+
+body{
+    background-image: url("https://www.canstockphoto.co.il/zoom/?height=397&width=598&id=67274231&_ts=1673189724248&scale=8.361204013377927&left=1940&top=808");
+    background-position: center center;
+    background-size: contain;
+    background-repeat:no-repeat;
+}  
